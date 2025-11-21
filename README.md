@@ -1,1 +1,6 @@
 # Assignment-1-real_time_programming
+Name: KOK HUI ZHEN 
+NO MATRIK:299326
+
+SOURCE CODE SCREENSHOT:
+OUTPUT SCREENSHOT:
